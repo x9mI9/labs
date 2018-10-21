@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1539541653 source:e:\projects\project_2\main.cpp
+	<iostream>
+	"algorithms.h"
+	"binary_operations.h"
+	"predicates.h"
+	"tasks.h"
+
+1539541883 e:\projects\project_2\algorithms.h
+
+1539540396 e:\projects\project_2\binary_operations.h
+
+1539539126 e:\projects\project_2\predicates.h
+
+1539541883 e:\projects\project_2\tasks.h
+	<iostream>
+	"algorithms.h"
+	"binary_operations.h"
+	"predicates.h"
+
